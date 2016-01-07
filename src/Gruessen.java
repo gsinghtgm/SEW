@@ -6,7 +6,7 @@ public class Gruessen {
 		for (int i = 1; i < 5; i++)
 			System.out.println("Hallo " + name[i] + "!");
 		System.out.println("Ich bin derzeit in der U-Bahn");
-		System.out.println("Ich muss zur Stadt um essen zu kaufen");
+		System.out.println("Ich muss zur Stadt um essen zu kaufe");
 		for (int i = 1; i < 5; i++)
 			System.out.println("Wiedersehen " + name[i] + "!");
 
